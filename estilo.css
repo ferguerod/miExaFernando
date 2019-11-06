@@ -15,9 +15,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', end
 	line-height: 1.6;
 }
 h2 {
-	color: #000
+	color: #000;
     font-family: Verdana, Geneva, sans-serif;
-	font-size: 22px;
+	font-size: 52px;
 	margin: 15px;
 	text-align: center;
 	
@@ -124,9 +124,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	-webkit-background-clip: padding-box;
 	background-clip:         padding-box;
 	behavior: url(PIE.htc);
-}
-.boton {
-	font-size: 52px;
 }
 
 .form-btn:active {
